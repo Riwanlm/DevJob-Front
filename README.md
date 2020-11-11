@@ -66,3 +66,9 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+!!! Ce projet fonctionne avec "dcdev3-devjob" pour le coté back-end généré via Symfony !!!
+--> Ouvrir donc le projet sur Symfony en parallèle, lancer  "symfony serve" dans le terminale 
+--> Puis dans ce projet, lancer "npm start" dans le terminale (shell bash).
+--> LE TOUR EST JOUÉ.
